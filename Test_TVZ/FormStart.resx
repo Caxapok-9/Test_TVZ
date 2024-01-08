@@ -117,8 +117,23 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="Icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\Debug\Icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="pictureBox1.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGeYUxB9wAAACBjSFJNAACH
+        EAAAjBIAAP1NAACBPgAAWesAARIPAAA85gAAGc66ySIyAAABK2lDQ1BQaG90b3Nob3AgSUNDIHByb2Zp
+        bGUAACjPY2BgMnB0cXJlEmBgyM0rKQpyd1KIiIxSYD/PwMbAzAAGicnFBY4BAT4gdl5+XioDBvh2jYER
+        RF/WBZnFQBrgSi4oKgHSf4DYKCW1OJmBgdEAyM4uLykAijPOAbJFkrLB7A0gdlFIkDOQfQTI5kuHsK+A
+        2EkQ9hMQuwjoCSD7C0h9OpjNxAE2B8KWAbFLUitA9jI45xdUFmWmZ5QoGFpaWio4puQnpSoEVxaXpOYW
+        K3jmJecXFeQXJZakpgDVQtwHBoIQhaAQ0wBqtNBkoDIAxQOE9TkQHL6MYmcQYgiQXFpUBmUyMhkT5iPM
+        mCPBwOC/lIGB5Q9CzKSXgWGBDgMD/1SEmJohA4OAPgPDvjkAwMZP/eeaqagAAAAJcEhZcwAAnXkAAJ15
+        AUNhtE0AAAFSSURBVFhHxdJBcoMwEERRrsGVcgBfmAWcKoSeUitj6eM4i0wWr8rVQj0SeDnP819hWAnD
+        ShhWwrAShpUwtOM4fvJIaL2jfsHQqCiJwctV4d8tR9QvGBoVNX24OWvrE+oXDI2KLtPwdw5B/YKhUdHl
+        sa7rNNy0PjwfqF8wtKHEt3u6ZRpK+v677mkhSwVR6GHbtn0XzLfGP+ZdPy5Y2xxF12v/hGF4AH0iaXms
+        Ub9gaC7QEMulMmTBB8iHoH7B0LRRA1TkA/xGPgT1C4a27/uHb+RC38iUj5kH5+epXzC0a2P/DENhX0sH
+        6Nk4XDn1C4bWCqNU3j3A8FYip37B0Ly5ceET+gRJ30/9gqHlgiSG3tH68HygfsHQqOgSt3sx/M8PINMh
+        nLX1CfULhkZFST+Ef7ccUb9gaFQ08OCXw4X6BcNKGFbCsBKGlTCshGElDOucyxeycMeDyTX/pAAAAABJ
+        RU5ErkJggg==
+</value>
   </data>
 </root>
